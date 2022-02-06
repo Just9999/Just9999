@@ -8,7 +8,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/Just9999">
-    <img src="https://lanyard.cnrad.dev/api/862621966317912084"/>
+    <img src="https://discord.com/users/862621966317912084"/>
      </a>
 </p>
 
